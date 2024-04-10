@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @KevinPanchal0
-- 👀 I’m interested in FLutter
+- 👋 Hi, I’m @KevinPanchal
 - 🌱 I’m currently learning Core Flutter
 
 <!---
