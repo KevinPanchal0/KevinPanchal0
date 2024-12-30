@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kevin
 
-Welcome to my GitHub profile! I'm a passionate Flutter Developer with a knack for building smooth, user-friendly, and efficient mobile applications.
+Welcome to my GitHub profile! I'm a passionate Flutter Developer for building smooth, user-friendly, and efficient mobile applications.
 
 ## About Me
 - 📚 **Education**: Completed a Flutter course at Red and White Institute.
