@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate Flutter Developer with a knack fo
   - API Integration
   - Firebase Cloud Messaging (FCM)
   - App Animations
-- 🌱 **Continuous Learner**: I love diving into new technologies and frameworks to enhance my skillset.
-- 🎯 **Goal**: To create apps that people love and enjoy using!
 
 ## Projects
 Feel free to explore my repositories to see the projects I’ve been working on. From budget tracking apps to animation-rich experiences, each project reflects my dedication to crafting high-quality mobile applications.
